@@ -16,7 +16,7 @@ Mobile mobileObj1;
 mobileObj1.brand = "Vivo";
 mobileObj1.model = "v3";
 mobileObj1.year = 2016;
-// Create another object of Car
+// Create another object of Mobile 
 Mobile mobileObj2;
 mobileObj2.brand = "OPPO";
 mobileObj2.model = "A103";
